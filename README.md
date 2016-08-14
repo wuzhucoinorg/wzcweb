@@ -1,0 +1,2 @@
+# wzcweb
+website for wuzhucoin
